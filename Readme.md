@@ -1,8 +1,9 @@
-### Build an API that reports Github’s status from the endpoint
+## Assignment
+Build an API that reports Github’s status from the endpoint
 
 https://kctbh9vrtdwd.statuspage.io/api/v2/status.json.
 
-# The expected response:
+## The expected response:
     {
         Github_health: $status indicator,
         Updated_at: page updated at timestamp
